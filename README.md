@@ -1,5 +1,5 @@
-# dotfiles <br/>
-### the configs are copied a lot and i wasnt bothered to make it configurable lol<br/>
+# dotfiles 
+### the configs are copied a lot and i wasnt bothered to make it configurable lol
 im installing windows so these are for if I NEED LINUX AGAIN<br/>
 
 <br/>Game launcher - Cartridges<br/>
